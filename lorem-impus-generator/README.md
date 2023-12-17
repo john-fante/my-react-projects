@@ -19,4 +19,4 @@
   - tailwindcss@3.3.2
   - vite@4.3.9
 
-I tried to implement this example https://react-projects.netlify.app/.
+I tried to implement this examples https://react-projects.netlify.app/.
