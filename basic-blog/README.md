@@ -1,6 +1,11 @@
 # React Lorem Impus Generator
 
-<img width="1440" alt="Screenshot 2023-12-17 at 2 54 48 PM" src="https://github.com/john-fante/my-web-app-projects/assets/50263592/f4a677b7-56ab-4c31-a7b3-f843abb2d8b0">
+![68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f35303236333539322f3235353936333530302d38393165366537382d663335312d346330662d613035382d6539396433643736343664312e6a7067](https://github.com/john-fante/my-web-app-projects/assets/50263592/66aff819-9835-45e5-8045-1ffa6f916a3d)
+
+
+## Screenshot
+
+![Screenshot 2023-12-17 at 3 30 50 PM](https://github.com/john-fante/my-web-app-projects/assets/50263592/ded2e67d-a9b0-46be-9dc2-f69dd6404cbe)
 
 
 - node.js modules used in this project
